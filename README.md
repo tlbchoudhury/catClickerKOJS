@@ -1,4 +1,1 @@
-ud989-cat-clicker-ko-starter
-============================
-
-ud989-cat-clicker-ko-starter
+Cat Clicker Premium has been built using Knockout JS. 
